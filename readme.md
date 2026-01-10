@@ -19,13 +19,12 @@ vulnerability analysis, exploitation, and defensive security fundamentals.
 ---
 
 ## 🗂️ Repository Structure
-cybersecurity-labs/
-├── active-directory/
-├── hackthebox/
-├── network-security/
-├── own-labs/
-├── readme.md
-└── tryhackme/
+├── active-directory/ <br>
+├── hackthebox/<br>
+├── network-security/<br>
+├── own-labs/<br>
+├── readme.md<br>
+└── tryhackme/<br>
 
 
 
