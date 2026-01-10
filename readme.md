@@ -19,11 +19,13 @@ vulnerability analysis, exploitation, and defensive security fundamentals.
 ---
 
 ## 🗂️ Repository Structure
+```
 ├── hackthebox/          # Hack The Box machine writeups
 ├── tryhackme/           # TryHackMe rooms and challenges
 ├── active-directory/   # AD, GPO, Windows Server labs
 ├── network-security/   # Networking & traffic analysis labs
 └── own-labs/            # Custom VMs and self-built environments
+```
 
 
 
