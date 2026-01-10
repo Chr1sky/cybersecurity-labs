@@ -19,11 +19,12 @@ vulnerability analysis, exploitation, and defensive security fundamentals.
 ---
 
 ## 🗂️ Repository Structure
-├── hackthebox/ # Hack The Box machine writeups
-├── tryhackme/ # TryHackMe rooms and challenges
-├── active-directory/ # AD, GPO, Windows Server labs
-├── network-security/ # Networking & traffic analysis labs
-└── own-labs/ # Custom VMs and self-built environments
+├── hackthebox/          # Hack The Box machine writeups
+├── tryhackme/           # TryHackMe rooms and challenges
+├── active-directory/   # AD, GPO, Windows Server labs
+├── network-security/   # Networking & traffic analysis labs
+└── own-labs/            # Custom VMs and self-built environments
+
 
 
 Each lab is stored in a separate directory with its own README file describing
