@@ -161,9 +161,9 @@ The final task was to identify the user's password.
 
 During closer inspection, I discovered **hidden text** written in white font on a white background.
 
-    ```
-    <p style="color:#ffffff;" class="has-text-color">pennYDr0pper.!</p>
-    ```
+ ```
+ <p style="color:#ffffff;" class="has-text-color">pennYDr0pper.!</p>
+ ```
 
 The revealed password was:
 
@@ -216,3 +216,4 @@ During this lab, the following tools and resources were used:
 - Social media oversharing can expose sensitive information
 - Hidden content on websites is a common OPSEC failure
 - OSINT requires patience and correlating multiple small clues
+
